@@ -1,1 +1,6 @@
-File1 created for first commit and newbranch_2 for bug fixes.
+
+File1 created for first commit and newbranch_2 for bug fixes, after which we resolved AutoMerge Confilct.
+and manually merged content of File1 from newbranch_1 also.
+
+@ Ansh Vikalp
+
